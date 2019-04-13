@@ -1,4 +1,3 @@
-### Ready to publish more papers of high quality.
 <!-- ---
 title: "Paper Title Number 1"
 collection: publications
