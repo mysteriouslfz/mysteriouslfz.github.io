@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Ready to publish more papers of high quality.
+### More Papers are ready to be done.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
