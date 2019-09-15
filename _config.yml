@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Welcome to my homepage"
 title_separator          : "-"
 name                     : &name "Fengzhi Li"
-description              : &description "Master in Beihang University"
+description              : &description "Ph.D in Beihang University"
 url                      : https://mysteriouslfz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mysteriouslfz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fengzhi Li"
   avatar           : "bigteacher.jpg"
-  bio              : "Master in Beihang University, learning NLP."
+  bio              : "Ph.D in Beihang University, learning NLP."
   location         : "Beijing, China"
   employer         :
   pubmed           :
