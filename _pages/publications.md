@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### More Papers are ready to be done.
+### The work about Extreme Multi-Label Learning is under research.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
