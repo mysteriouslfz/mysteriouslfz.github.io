@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-**Fengzhi Li** received his Bachelor’s degree in **applied physics** from Beihang University, Beijing, China, in 2018. He is currently a Ph.D candidate in the School of Economics and Management at Beihang University. His research interests mainly include **data mining, machine learning and NLP**.
+**Fengzhi Li** received his Bachelor’s degree in **applied physics** from Beihang University, Beijing, China, in 2018. He is currently a Ph.D candidate in the School of Economics and Management at Beihang University. His research interests mainly include **Graph Neural Network, Recommendation Systems, Time Series**.
 
 News
 ======
-+ **2020.11.3**: The conference paper *Matching Neural Network for Extreme Multi-Label Learning* has just been EI Indexed. 
++ **2022.8.15**: The conference paper *Modeling Evolution on Temporal Graphs via Continuous Neighbors Aggregation* was under review by Association for the Advancement of Artificial Intelligence (AAAI 2022). 
++ **2022.3.21**: The journal paper *BoostXML: Gradient Boosting for Extreme Multi-Label Learning with Tail Labels* was under review by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
 Ph.D
 ======
@@ -20,7 +21,7 @@ Ph.D
 
 + Beijing, 100191, P. R. China
 
-+ **Office:** A721, New Main Building
++ **Office:** A717, New Main Building
 
 + **Email:** lifengzhi@buaa.edu.cn
 
