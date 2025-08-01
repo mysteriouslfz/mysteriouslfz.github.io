@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Welcome to my homepage"
 title_separator          : "-"
 name                     : &name "Fengzhi Li"
-description              : &description "Ph.D in Beihang University"
+description              : #&description ""
 url                      : https://mysteriouslfz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mysteriouslfz.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Fengzhi Li"
-  avatar           : "bigteacher.jpg"
-  bio              : "Ph.D in Beihang University."
-  location         : "Beijing, China"
+  avatar           : "Moon.jpg"
+  bio              : #""
+  location         : "Xi'an, Shanxi, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=rLs2CQsAAAAJ&hl=zh-CN"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "LFengzhi"
+  twitter          : #"LFengzhi"
   vine             :
   weibo            :
   xing             :

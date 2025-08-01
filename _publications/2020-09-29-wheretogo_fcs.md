@@ -1,12 +1,12 @@
 ---
 title: "Where to go? Predicting next location in IoT environment"
 collection: publications
-permalink: /publication/2019-09-12-wheretogo_fcs
-excerpt: 'This paper is about the location prediction, using Joint Modeling of Trajectory and Signal Sequence.'
-date: 2019-09-12
+permalink: /publication/2020-09-29-wheretogo_fcs
+excerpt: 'We propose TSIS, a neural model that jointly learns from trajectory transitions and IoT signal sequences via gated GNNs and GRUs for accurate next-location prediction in IoT environments.'
+date: 2020-09-29
 venue: 'Frontiers of Computer Science'
 paperurl: 'https://link.springer.com/article/10.1007/s11704-019-9118-9'
-citation: 'Lin, Hao, et al. "Where to go? Predicting next location in IoT environment." Frontiers of Computer Science 15.1 (2020): 1-13.'
+citation: 'Lin, H., Liu, G., Li, F., & Zuo, Y. (2021). Where to go? Predicting next location in IoT environment. Frontiers of Computer Science, 15(1), 151306.'
 ---
 Abstract
 ======
@@ -14,4 +14,4 @@ Next location prediction has aroused great interests in the era of Internet of T
 
 Get the paper
 ======
-+ **Download paper Here:** [click](http://mysteriouslfz.github.io/files/2019-09-12-wheretogo_fcs/Where_to_go_Predicting_next_location_in_IoT_environment.pdf)
++ **Download paper Here:** [click](http://mysteriouslfz.github.io/files/2020-09-29-wheretogo_fcs/Where_to_go_Predicting_next_location_in_IoT_environment.pdf)
