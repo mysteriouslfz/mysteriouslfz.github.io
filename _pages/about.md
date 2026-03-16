@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**Fengzhi Li** received his Bachelor’s degree of **Applied Physics** from Beihang University in 2018. He received his Ph.D. degree of **Management Science and Engineering** from Beihang University in 2025. His research interests mainly include **Graph Neural Network, Natural Language Processing**.
+**Fengzhi Li** received his Bachelor’s degree of **Applied Physics** from Beihang University in 2018. He received his Ph.D. degree of **Management Science and Engineering** from Beihang University in 2025. His research interests mainly include **Natural Language Processing** and **Graph Mining**.
 
-<!-- News
+News
 ======
-+ **2022.8.15**: The conference paper *Modeling Evolution on Temporal Graphs via Continuous Neighbors Aggregation* was under review by Association for the Advancement of Artificial Intelligence (AAAI 2022). 
-+ **2022.3.21**: The journal paper *BoostXML: Gradient Boosting for Extreme Multi-Label Learning with Tail Labels* was under review by IEEE Transactions on Neural Networks and Learning Systems (TNNLS). -->
++ **2026.3.3**: The conference paper *Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for Zero-Shot Graph Learning with Large Language Models* was under review by SIGKDD 2026. It can be viewed on <https://arxiv.org/abs/2603.02938> now.
 
 <!-- Ph.D
 ======
