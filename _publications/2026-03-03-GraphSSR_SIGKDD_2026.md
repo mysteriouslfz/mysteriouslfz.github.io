@@ -6,7 +6,12 @@ excerpt: 'To address the noise and suboptimality of fixed subgraph extraction in
 date: 2026-03-03
 venue: 'SIGKDD'
 paperurl: 'https://arxiv.org/abs/2603.02938'
-citation: 'Li, F., Zhang, L., Zuo, Y., Zhao, R., Liu, Y., Ma, Y., ... & Feng, J. (2026). Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for Zero-Shot Graph Learning with Large Language Models. arXiv preprint arXiv:2603.02938.'
+citation: '@article{li2026beyond,
+  title={Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for Zero-Shot Graph Learning with Large Language Models},
+  author={Li, Fengzhi and Zhang, Liang and Zuo, Yuan and Zhao, Ruiqing and Liu, YanSong and Ma, Yunfei and Meng, Fanyu and Feng, Junlan},
+  journal={arXiv preprint arXiv:2603.02938},
+  year={2026}
+}'
 ---
 Abstract
 ======

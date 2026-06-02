@@ -6,7 +6,15 @@ excerpt: 'We propose memory-tuning, a novel parameter-efficient method that unif
 date: 2024-11-27
 venue: 'IEEE Transactions on Audio, Speech and Language Processing'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10769026'
-citation: 'Qi, W., Liu, R., Zuo, Y., Li, F., Chen, Y., & Wu, J. (2024). Memory-Tuning: A Unified Parameter-Efficient Tuning Method for Pre-trained Language Models. IEEE/ACM Transactions on Audio, Speech, and Language Processing.'
+citation: '@article{qi2024memory,
+  title={Memory-Tuning: A Unified Parameter-Efficient Tuning Method for Pre-Trained Language Models},
+  author={Qi, Wang and Liu, Rui and Zuo, Yuan and Li, Fengzhi and Chen, Yong and Wu, Junjie},
+  journal={IEEE Transactions on Audio, Speech and Language Processing},
+  volume={33},
+  pages={1--10},
+  year={2024},
+  publisher={IEEE}
+}'
 ---
 Abstract
 ======

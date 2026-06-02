@@ -6,7 +6,16 @@ excerpt: 'We propose TSIS, a neural model that jointly learns from trajectory tr
 date: 2020-09-29
 venue: 'Frontiers of Computer Science'
 paperurl: 'https://link.springer.com/article/10.1007/s11704-019-9118-9'
-citation: 'Lin, H., Liu, G., Li, F., & Zuo, Y. (2021). Where to go? Predicting next location in IoT environment. Frontiers of Computer Science, 15(1), 151306.'
+citation: '@article{lin2021go,
+  title={Where to go? Predicting next location in IoT environment},
+  author={Lin, Hao and Liu, Guannan and Li, Fengzhi and Zuo, Yuan},
+  journal={Frontiers of Computer Science},
+  volume={15},
+  number={1},
+  pages={151306},
+  year={2021},
+  publisher={Springer}
+}'
 ---
 Abstract
 ======

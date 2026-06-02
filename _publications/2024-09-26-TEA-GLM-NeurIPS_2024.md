@@ -6,7 +6,14 @@ excerpt: 'We propose TEA-GLM, a zero-shot graph learning framework that aligns G
 date: 2024-09-26
 venue: '38th Conference on Neural Information Processing Systems (NeurIPS 2024)'
 paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/file/0b77d3a82b59e9d9899370b378087faf-Paper-Conference.pdf'
-citation: 'Wang, D., Zuo, Y., Li, F., & Wu, J. (2024). Llms as zero-shot graph learners: Alignment of gnn representations with llm token embeddings. Advances in Neural Information Processing Systems, 37, 5950-5973.'
+citation: '@article{wang2024llms,
+  title={Llms as zero-shot graph learners: Alignment of gnn representations with llm token embeddings},
+  author={Wang, Duo and Zuo, Yuan and Li, Fengzhi and Wu, Junjie},
+  journal={Advances in neural information processing systems},
+  volume={37},
+  pages={5950--5973},
+  year={2024}
+}'
 ---
 Abstract
 ======

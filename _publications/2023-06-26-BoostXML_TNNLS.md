@@ -6,7 +6,16 @@ excerpt: 'We present BoostXML, a deep learning-based extreme multilabel text cla
 date: 2023-06-26
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10161991'
-citation: 'Li, F., Zuo, Y., Lin, H., & Wu, J. (2023). Boostxml: gradient boosting for extreme multilabel text classification with tail labels. IEEE Transactions on Neural Networks and Learning Systems, 35(11), 15292-15305.'
+citation: '@article{li2023boostxml,
+  title={Boostxml: gradient boosting for extreme multilabel text classification with tail labels},
+  author={Li, Fengzhi and Zuo, Yuan and Lin, Hao and Wu, Junjie},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  volume={35},
+  number={11},
+  pages={15292--15305},
+  year={2023},
+  publisher={IEEE}
+}'
 ---
 Abstract
 ======
