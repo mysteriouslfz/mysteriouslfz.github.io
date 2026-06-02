@@ -14,4 +14,4 @@ Graph-based tasks in the zero-shot setting remain a significant challenge due to
 
 Get the paper
 ======
-+ **Download paper Here:** [click](http://mysteriouslfz.github.io/files/2026-03-03-GraphSSR_arxiv/Beyond_One-Size-Fits-All_Adaptive_Subgraph_Denoising_for_Zero-Shot_Graph_Learning_with_Large_Language_Models.pdf)
++ **Download paper Here:** [click](http://mysteriouslfz.github.io/files/2026-03-03-GraphSSR_SIGKDD_2026/Beyond_One-Size-Fits-All_Adaptive_Subgraph_Denoising_for_Zero-Shot_Graph_Learning_with_Large_Language_Models.pdf)

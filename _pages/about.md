@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-**Fengzhi Li** received his Bachelor’s degree of **Applied Physics** from Beihang University in 2018. He received his Ph.D. degree of **Management Science and Engineering** from Beihang University in 2025. His research interests mainly include **Natural Language Processing** and **Graph Mining**.
+**Fengzhi Li** is currently a Researcher at **JIUTIAN Research**. He earned his Ph.D. in Management Science and Engineering (2025) and his Bachelor’s degree in Applied Physics (2018) from Beihang University. His research interests mainly lie in **Natural Language Processing** and **Graph Mining**.
 
 News
 ======
-+ **2026.3.3**: The conference paper *Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for Zero-Shot Graph Learning with Large Language Models* was under review by SIGKDD 2026. It can be viewed on <https://arxiv.org/abs/2603.02938> now.
++ **2026.05**: Our paper *Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for Zero-Shot Graph Learning with Large Language Models* has been accepted by **SIGKDD 2026**! The preprint version can be viewed on [arXiv](https://arxiv.org/abs/2603.02938).
+
++ **2026.05**: Our paper *Strategy-Aware Optimization Modeling with Reasoning LLMs* has been accepted by **ICML 2026**! The preprint version can be viewed on [arXiv](https://arxiv.org/abs/2605.02545).
 
 <!-- Ph.D
 ======
@@ -24,5 +26,5 @@ News
 
 + **Email:** lifengzhi@buaa.edu.cn -->
 
-+ Who visit my homepage?
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=-CZQr1rFAIKFwwtyZcqtTDqmbLyJc4XwkRuZ8MWil_g'></script>
+<!-- + Who visit my homepage?
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=-CZQr1rFAIKFwwtyZcqtTDqmbLyJc4XwkRuZ8MWil_g'></script> -->
