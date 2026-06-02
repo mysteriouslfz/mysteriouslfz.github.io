@@ -1,10 +1,10 @@
 ---
 title: "Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for Zero-Shot Graph Learning with Large Language Models"
 collection: publications
-permalink: /publication/2026-03-03-GraphSSR_arxiv
+permalink: /publication/2026-03-03-GraphSSR_SIGKDD_2026
 excerpt: 'To address the noise and suboptimality of fixed subgraph extraction in zero-shot graph reasoning, we propose GraphSSR, a framework that utilizes a "Sample-Select-Reason" (SSR) pipeline, supervised fine-tuning (SSR-SFT), and reinforcement learning (SSR-RL) to enable Large Language Models to adaptively extract and denoise task-relevant graph structures for superior generalization.'
 date: 2026-03-03
-venue: 'Arxiv'
+venue: 'SIGKDD'
 paperurl: 'https://arxiv.org/abs/2603.02938'
 citation: 'Li, F., Zhang, L., Zuo, Y., Zhao, R., Liu, Y., Ma, Y., ... & Feng, J. (2026). Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for Zero-Shot Graph Learning with Large Language Models. arXiv preprint arXiv:2603.02938.'
 ---
